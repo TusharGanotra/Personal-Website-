@@ -3,6 +3,11 @@
   padding-top: 80px;
 
 }
+
+.mountain{
+  padding-top:80px;
+}
+
 .cloud2{
   position: absolute;
 }
@@ -35,7 +40,11 @@ font-size: 20px;
 
 }
 .myimage{
-  border-radius: 100px;
+  margin-top: 50px;
+  border-radius: 50%;
+  height:300px;
+  width:300px;
+
 }
 .laptop
 {
