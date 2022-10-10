@@ -2,8 +2,37 @@
   background-color: #E4F9F5;
   padding-top: 80px;
 
+
+}
+.containerdot{
+  width: 85%;
 }
 
+.Mlo{
+  line-height: 2.2;
+}
+.spanio{
+  box-shadow :  0 0 0px 1px #16161d;
+  border-radius: 25px;
+padding: 0.5rem;
+font-size: 14px;
+
+
+}
+.rownew{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.col-left{
+  padding-right: 25px;
+}
+.col-right{
+  padding-left: 25px;
+}
+.tech3{
+  color: black;
+  font-size: 2rem;
+}
 .mountain{
   padding-top:80px;
 }
@@ -11,8 +40,8 @@
   position: absolute;
 }
 .proimage{
-  width:500px;
-  height:300px;
+  width:700px;
+  height:400px;
 }
 .procontainer{
   margin-top: 50px;
@@ -36,6 +65,7 @@ h3{
 }
 .row{
   padding-top :70px;
+  width: 100%;
 
 }
 a{
@@ -45,6 +75,7 @@ a{
 h2{
   color: #66BFBF;
   font-size: 2.5em;
+  font-family: "Times New Roman", Times, serif;
 }
 h1 {
   margin-top: 0;
